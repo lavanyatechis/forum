@@ -18,9 +18,11 @@ body {
     border:1px solid #ccc;
 }
 .post_form textarea{
-    width:70px;
-    padding:10px;
-    border:1px solid #ccc;
+   width:70%;
+   margin-bottom: 10px;
+   padding: 10px;
+   border:1px solid #ccc;
+
 }
 .post_form{
     padding:20px 40px;
@@ -54,7 +56,7 @@ body {
     font-size: 13px;
     border-radius:3px;
 }
-.posts li .menu a{
+.posts li .menu a {
     text-decoration: none;
 }
 .posts li .logo{

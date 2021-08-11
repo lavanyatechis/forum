@@ -1,6 +1,6 @@
 $(function() {
   $('.js-menu-icon').click(function() {
-        $(this).next().toggle();
-    });
-   
-});
+      $(this).next().toggle();
+  })
+ 
+})
